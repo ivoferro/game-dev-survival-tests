@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: 120e759a70ead6f488de860fc1faf69d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 219550757036486408
+    second: Medieval_HighSeas_LizardSmall_walking_diag_0
+  - first:
+      213: 807831812111199197
+    second: Medieval_HighSeas_LizardSmall_walking_diag_1
+  - first:
+      213: 7666167124001079972
+    second: Medieval_HighSeas_LizardSmall_walking_diag_2
+  - first:
+      213: 5074756578695408335
+    second: Medieval_HighSeas_LizardSmall_walking_diag_3
+  - first:
+      213: 8382359186296374745
+    second: Medieval_HighSeas_LizardSmall_walking_diag_4
+  - first:
+      213: 7038085095700301205
+    second: Medieval_HighSeas_LizardSmall_walking_diag_6
+  - first:
+      213: 3225462858199463959
+    second: Medieval_HighSeas_LizardSmall_walking_diag_7
+  - first:
+      213: 1582770476881389493
+    second: Medieval_HighSeas_LizardSmall_walking_diag_8
+  - first:
+      213: 899624047559852245
+    second: Medieval_HighSeas_LizardSmall_walking_diag_9
+  - first:
+      213: -3056900303124456319
+    second: Medieval_HighSeas_LizardSmall_walking_diag_11
+  - first:
+      213: -5957337495832179076
+    second: Medieval_HighSeas_LizardSmall_walking_diag_12
+  - first:
+      213: -2359675475957260779
+    second: Medieval_HighSeas_LizardSmall_walking_diag_13
+  - first:
+      213: -7857846746451460586
+    second: Medieval_HighSeas_LizardSmall_walking_diag_14
+  - first:
+      213: 1054354542940921845
+    second: Medieval_HighSeas_LizardSmall_walking_diag_15
+  - first:
+      213: 8835032153685238127
+    second: Medieval_HighSeas_LizardSmall_walking_diag_16
+  - first:
+      213: -6676774556707355468
+    second: Medieval_HighSeas_LizardSmall_walking_diag_18
+  - first:
+      213: 3971719356730448077
+    second: Medieval_HighSeas_LizardSmall_walking_diag_19
+  - first:
+      213: 5364293463693956756
+    second: Medieval_HighSeas_LizardSmall_walking_diag_20
+  - first:
+      213: -5010374256652359174
+    second: Medieval_HighSeas_LizardSmall_walking_diag_21
+  - first:
+      213: 2214307871232654969
+    second: Medieval_HighSeas_LizardSmall_walking_diag_22
+  - first:
+      213: -8131525070041504075
+    second: Medieval_HighSeas_LizardSmall_walking_diag_23
+  - first:
+      213: -5882606758606694453
+    second: Medieval_HighSeas_LizardSmall_walking_diag_24
+  - first:
+      213: 1788917406746409757
+    second: Medieval_HighSeas_LizardSmall_walking_diag_25
+  - first:
+      213: -7512606553767225449
+    second: Medieval_HighSeas_LizardSmall_walking_diag_26
+  - first:
+      213: 6804528803896710817
+    second: Medieval_HighSeas_LizardSmall_walking_diag_27
+  - first:
+      213: -599320105718295627
+    second: Medieval_HighSeas_LizardSmall_walking_diag_28
+  - first:
+      213: -706789544964883722
+    second: Medieval_HighSeas_LizardSmall_walking_diag_29
+  - first:
+      213: -4255996511365035936
+    second: Medieval_HighSeas_LizardSmall_walking_diag_30
+  - first:
+      213: -1924854171028015986
+    second: Medieval_HighSeas_LizardSmall_walking_diag_31
+  - first:
+      213: -2001965825676722336
+    second: Medieval_HighSeas_LizardSmall_walking_diag_32
+  - first:
+      213: -8793323766500567394
+    second: Medieval_HighSeas_LizardSmall_walking_diag_33
+  - first:
+      213: 2608289635043051833
+    second: Medieval_HighSeas_LizardSmall_walking_diag_34
+  - first:
+      213: 4641887501379157453
+    second: Medieval_HighSeas_LizardSmall_walking_diag_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 394
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe35310400c0300800000000000000
+      internalID: 219550757036486408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 396
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe527c0cef53b00800000000000000
+      internalID: 807831812111199197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 397
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2ccd6d162b36a60800000000000000
+      internalID: 7666167124001079972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 398
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca67ba98382d6640800000000000000
+      internalID: 5074756578695408335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 396
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d58deea44f145470800000000000000
+      internalID: 8382359186296374745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 395
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595003cea1d4ca160800000000000000
+      internalID: 7038085095700301205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 395
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f13b516523cc20800000000000000
+      internalID: 3225462858199463959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_8
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 391
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7ad73ec5127f510800000000000000
+      internalID: 1582770476881389493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9b76de55b395d0800000000000000
+      internalID: -3056900303124456319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ecec16c19435da0800000000000000
+      internalID: -5957337495832179076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51edd5e18afb04fd0800000000000000
+      internalID: -2359675475957260779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 256
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3d4a440253f290800000000000000
+      internalID: -7857846746451460586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 263
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff105fded1d1ae00800000000000000
+      internalID: 1054354542940921845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 266
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61209b0fe65c9a70800000000000000
+      internalID: 8835032153685238127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 257
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4871e6ae45753a0800000000000000
+      internalID: -6676774556707355468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 263
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8167d36b16e1730800000000000000
+      internalID: 3971719356730448077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969d66eb7cc17a40800000000000000
+      internalID: 5364293463693956756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 135
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96970e823977ab0800000000000000
+      internalID: -5010374256652359174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 135
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e7c28e64dcabe10800000000000000
+      internalID: 2214307871232654969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 135
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62efd0805072f80800000000000000
+      internalID: -8131525070041504075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 136
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79fe70258cc5ea0800000000000000
+      internalID: -5882606758606694453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 137
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf1a147e283d810800000000000000
+      internalID: 1788917406746409757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 140
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797de61942cddb790800000000000000
+      internalID: -7512606553767225449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_27
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 137
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a65d2c25ea8e6e50800000000000000
+      internalID: 6804528803896710817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b359e70a89cea7f0800000000000000
+      internalID: -599320105718295627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa786157aaf036f0800000000000000
+      internalID: -706789544964883722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06809ced8b9afe4c0800000000000000
+      internalID: -4255996511365035936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84327b645b8945e0800000000000000
+      internalID: -1924854171028015986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_32
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 7
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f311c30b69734e0800000000000000
+      internalID: -2001965825676722336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96dbb69f96d7f580800000000000000
+      internalID: -8793323766500567394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_34
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 0
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93903109a91823420800000000000000
+      internalID: 2608289635043051833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_walking_diag_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 15
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb707b61c4b6040800000000000000
+      internalID: 4641887501379157453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

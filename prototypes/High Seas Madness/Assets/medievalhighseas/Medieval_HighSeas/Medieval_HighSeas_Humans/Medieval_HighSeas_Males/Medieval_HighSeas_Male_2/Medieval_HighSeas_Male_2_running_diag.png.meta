@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: e14bb1540d644444fa432b3fc08fdc67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8696906661619949211
+    second: Medieval_HighSeas_Male_2_running_diag_0
+  - first:
+      213: -6089486924501730724
+    second: Medieval_HighSeas_Male_2_running_diag_1
+  - first:
+      213: 1030291210174409693
+    second: Medieval_HighSeas_Male_2_running_diag_2
+  - first:
+      213: 1766089579420657478
+    second: Medieval_HighSeas_Male_2_running_diag_3
+  - first:
+      213: 2538643983561901825
+    second: Medieval_HighSeas_Male_2_running_diag_4
+  - first:
+      213: -1039115081507349663
+    second: Medieval_HighSeas_Male_2_running_diag_5
+  - first:
+      213: 1643340094463746508
+    second: Medieval_HighSeas_Male_2_running_diag_6
+  - first:
+      213: 2139773731869378556
+    second: Medieval_HighSeas_Male_2_running_diag_7
+  - first:
+      213: 1599416524188253865
+    second: Medieval_HighSeas_Male_2_running_diag_8
+  - first:
+      213: -988355626149862610
+    second: Medieval_HighSeas_Male_2_running_diag_9
+  - first:
+      213: -6432309588572428803
+    second: Medieval_HighSeas_Male_2_running_diag_10
+  - first:
+      213: 3397502267248113688
+    second: Medieval_HighSeas_Male_2_running_diag_11
+  - first:
+      213: 3827927535455749525
+    second: Medieval_HighSeas_Male_2_running_diag_12
+  - first:
+      213: 9084660181247858964
+    second: Medieval_HighSeas_Male_2_running_diag_13
+  - first:
+      213: 6288064887557237554
+    second: Medieval_HighSeas_Male_2_running_diag_14
+  - first:
+      213: -7989989109666531542
+    second: Medieval_HighSeas_Male_2_running_diag_15
+  - first:
+      213: -4076015648623572348
+    second: Medieval_HighSeas_Male_2_running_diag_16
+  - first:
+      213: -2048673683420411786
+    second: Medieval_HighSeas_Male_2_running_diag_17
+  - first:
+      213: 1116326373223597661
+    second: Medieval_HighSeas_Male_2_running_diag_18
+  - first:
+      213: -1303178503854104151
+    second: Medieval_HighSeas_Male_2_running_diag_19
+  - first:
+      213: 3047866523726750476
+    second: Medieval_HighSeas_Male_2_running_diag_20
+  - first:
+      213: 4191006046424072937
+    second: Medieval_HighSeas_Male_2_running_diag_21
+  - first:
+      213: 7706523352571155369
+    second: Medieval_HighSeas_Male_2_running_diag_22
+  - first:
+      213: -1224175773427166701
+    second: Medieval_HighSeas_Male_2_running_diag_23
+  - first:
+      213: 3488076637026091900
+    second: Medieval_HighSeas_Male_2_running_diag_24
+  - first:
+      213: 2837926336939716270
+    second: Medieval_HighSeas_Male_2_running_diag_25
+  - first:
+      213: 4655882537302615877
+    second: Medieval_HighSeas_Male_2_running_diag_26
+  - first:
+      213: -2492839260411519611
+    second: Medieval_HighSeas_Male_2_running_diag_27
+  - first:
+      213: -7415633826922810832
+    second: Medieval_HighSeas_Male_2_running_diag_28
+  - first:
+      213: 3006743590122057585
+    second: Medieval_HighSeas_Male_2_running_diag_29
+  - first:
+      213: -462801757312718944
+    second: Medieval_HighSeas_Male_2_running_diag_30
+  - first:
+      213: 6315752268304364529
+    second: Medieval_HighSeas_Male_2_running_diag_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 402
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612a6d28716e4780800000000000000
+      internalID: -8696906661619949211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 410
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a30b8d7ebcd7ba0800000000000000
+      internalID: -6089486924501730724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 421
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb27ad95645c4e00800000000000000
+      internalID: 1030291210174409693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 404
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64723e68d19628810800000000000000
+      internalID: 1766089579420657478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 399
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c363b0431b3320800000000000000
+      internalID: 2538643983561901825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 399
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd00eb6525491f0800000000000000
+      internalID: -1039115081507349663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 409
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12bafeb115ec610800000000000000
+      internalID: 1643340094463746508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 408
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf749c34fd002bd10800000000000000
+      internalID: 2139773731869378556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 277
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae712ccad4423610800000000000000
+      internalID: 1599416524188253865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 279
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2324976bc7a842f0800000000000000
+      internalID: -988355626149862610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 266
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52dcf4288dbb6a0800000000000000
+      internalID: -6432309588572428803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 270
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81878e2bf4a562f20800000000000000
+      internalID: 3397502267248113688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 275
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c6c0ffc78f1530800000000000000
+      internalID: 3827927535455749525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 284
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191a606d42331e70800000000000000
+      internalID: 9084660181247858964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_14
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 270
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ba47b13b1b34750800000000000000
+      internalID: 6288064887557237554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_15
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 270
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27361fcc3bdd1190800000000000000
+      internalID: -7989989109666531542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 141
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48acbdcfc551f67c0800000000000000
+      internalID: -4076015648623572348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 151
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780907a326a193e0800000000000000
+      internalID: -2048673683420411786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 168
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5684610cecfd7f00800000000000000
+      internalID: 1116326373223597661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 149
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e9d62e0e2aede0800000000000000
+      internalID: -1303178503854104151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 146
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a98d74723c4a20800000000000000
+      internalID: 3047866523726750476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 146
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20f985bc1792a30800000000000000
+      internalID: 4191006046424072937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 156
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39143882213fa60800000000000000
+      internalID: 7706523352571155369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 149
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121c3abe9ad20fe0800000000000000
+      internalID: -1224175773427166701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 26
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7387438833286030800000000000000
+      internalID: 3488076637026091900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 19
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae640ca7f6526720800000000000000
+      internalID: 2837926336939716270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547eddfef740d9040800000000000000
+      internalID: 4655882537302615877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 9
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d160976e7a76dd0800000000000000
+      internalID: -2492839260411519611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 11
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03235e9f250661990800000000000000
+      internalID: -7415633826922810832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 23
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f68e36d591ab920800000000000000
+      internalID: 3006743590122057585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_30
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 18
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e2f5f04cc399f0800000000000000
+      internalID: -462801757312718944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Male_2_running_diag_31
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 16
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f336a9c93f06a750800000000000000
+      internalID: 6315752268304364529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6 @@
+Female,true
+Template,Medieval_HighSeas_Female_1,0,true,-1
+Feet,Medieval_HighSeas_Female_Feet_1,1,true,-1
+Pants,Medieval_HighSeas_Female_Bottom_1,2,true,-1
+Top,Medieval_HighSeas_Female_Top_4,3,true,-1
+Hair,Medieval_HighSeas_Female_Hair_3,4,true,-5570560

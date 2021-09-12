@@ -1,0 +1,7 @@
+Male,true
+Template,Medieval_HighSeas_Male_4,0,true,-1
+Pants,Medieval_HighSeas_Male_Bottom_1,1,true,-4541556
+Accessory,Medieval_HighSeas_Male_Accessory_2,7,true,-1376256
+Top,Medieval_HighSeas_Male_Top_1,5,true,-8225947
+Top,Medieval_HighSeas_Male_Top_2,3,true,-1
+Head,Medieval_HighSeas_Male_Head_1,4,true,-6038017

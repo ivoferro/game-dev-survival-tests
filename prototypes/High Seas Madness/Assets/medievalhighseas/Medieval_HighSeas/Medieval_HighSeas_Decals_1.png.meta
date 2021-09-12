@@ -1,0 +1,3906 @@
+fileFormatVersion: 2
+guid: 629f2220f947f364c8789ef616b04355
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4604068832252953302
+    second: Medieval_HighSeas_Decals_1_0
+  - first:
+      213: 1544571180685828350
+    second: Medieval_HighSeas_Decals_1_1
+  - first:
+      213: 7753230271548182429
+    second: Medieval_HighSeas_Decals_1_2
+  - first:
+      213: -774773751558601776
+    second: Medieval_HighSeas_Decals_1_3
+  - first:
+      213: 1897346295577767482
+    second: Medieval_HighSeas_Decals_1_4
+  - first:
+      213: -6065556724062592501
+    second: Medieval_HighSeas_Decals_1_5
+  - first:
+      213: -1271607517973507649
+    second: Medieval_HighSeas_Decals_1_6
+  - first:
+      213: 4348643544495458422
+    second: Medieval_HighSeas_Decals_1_7
+  - first:
+      213: 5592064636260057075
+    second: Medieval_HighSeas_Decals_1_8
+  - first:
+      213: 5761157667185134265
+    second: Medieval_HighSeas_Decals_1_9
+  - first:
+      213: 3020816686625987495
+    second: Medieval_HighSeas_Decals_1_10
+  - first:
+      213: -8686672552996503886
+    second: Medieval_HighSeas_Decals_1_11
+  - first:
+      213: -5857754432982658218
+    second: Medieval_HighSeas_Decals_1_12
+  - first:
+      213: 6347208573069803257
+    second: Medieval_HighSeas_Decals_1_13
+  - first:
+      213: -118509275149557315
+    second: Medieval_HighSeas_Decals_1_14
+  - first:
+      213: 824587420538994663
+    second: Medieval_HighSeas_Decals_1_15
+  - first:
+      213: 7563512392074143661
+    second: Medieval_HighSeas_Decals_1_16
+  - first:
+      213: -3859974739314318619
+    second: Medieval_HighSeas_Decals_1_17
+  - first:
+      213: 6320307120651901295
+    second: Medieval_HighSeas_Decals_1_18
+  - first:
+      213: 9178928616556733324
+    second: Medieval_HighSeas_Decals_1_19
+  - first:
+      213: 7543534065111248667
+    second: Medieval_HighSeas_Decals_1_20
+  - first:
+      213: -4540107773569586562
+    second: Medieval_HighSeas_Decals_1_21
+  - first:
+      213: 3544295285740663312
+    second: Medieval_HighSeas_Decals_1_22
+  - first:
+      213: -3329179837561184247
+    second: Medieval_HighSeas_Decals_1_23
+  - first:
+      213: -6463083549488414121
+    second: Medieval_HighSeas_Decals_1_24
+  - first:
+      213: -1788725300429175820
+    second: Medieval_HighSeas_Decals_1_25
+  - first:
+      213: -5599473264153669170
+    second: Medieval_HighSeas_Decals_1_26
+  - first:
+      213: -6297770748348985278
+    second: Medieval_HighSeas_Decals_1_27
+  - first:
+      213: 3181818134845668412
+    second: Medieval_HighSeas_Decals_1_28
+  - first:
+      213: -5411729407236331180
+    second: Medieval_HighSeas_Decals_1_29
+  - first:
+      213: -2470621287596699377
+    second: Medieval_HighSeas_Decals_1_30
+  - first:
+      213: 6972238439114261036
+    second: Medieval_HighSeas_Decals_1_31
+  - first:
+      213: 303668912928012269
+    second: Medieval_HighSeas_Decals_1_32
+  - first:
+      213: 6792007213295949995
+    second: Medieval_HighSeas_Decals_1_33
+  - first:
+      213: -1890184456136538972
+    second: Medieval_HighSeas_Decals_1_34
+  - first:
+      213: -7796536227323023755
+    second: Medieval_HighSeas_Decals_1_35
+  - first:
+      213: -2711095835016365080
+    second: Medieval_HighSeas_Decals_1_36
+  - first:
+      213: 4017774529803084660
+    second: Medieval_HighSeas_Decals_1_37
+  - first:
+      213: -2984946591154550943
+    second: Medieval_HighSeas_Decals_1_38
+  - first:
+      213: 8019183266639660493
+    second: Medieval_HighSeas_Decals_1_39
+  - first:
+      213: 4458283975965701222
+    second: Medieval_HighSeas_Decals_1_40
+  - first:
+      213: -189138508684875819
+    second: Medieval_HighSeas_Decals_1_41
+  - first:
+      213: 2912283053458056352
+    second: Medieval_HighSeas_Decals_1_42
+  - first:
+      213: 7234807998295083495
+    second: Medieval_HighSeas_Decals_1_43
+  - first:
+      213: 6555008211355957981
+    second: Medieval_HighSeas_Decals_1_44
+  - first:
+      213: -2553632066363104861
+    second: Medieval_HighSeas_Decals_1_45
+  - first:
+      213: 4094434053244854252
+    second: Medieval_HighSeas_Decals_1_46
+  - first:
+      213: -6973188058824272275
+    second: Medieval_HighSeas_Decals_1_47
+  - first:
+      213: -1309777808391604194
+    second: Medieval_HighSeas_Decals_1_48
+  - first:
+      213: 6634964899387347317
+    second: Medieval_HighSeas_Decals_1_49
+  - first:
+      213: 166115307902446670
+    second: Medieval_HighSeas_Decals_1_50
+  - first:
+      213: 8295586751149070293
+    second: Medieval_HighSeas_Decals_1_51
+  - first:
+      213: 3032460922943619974
+    second: Medieval_HighSeas_Decals_1_52
+  - first:
+      213: 5500876459153745966
+    second: Medieval_HighSeas_Decals_1_53
+  - first:
+      213: 9188251362363097099
+    second: Medieval_HighSeas_Decals_1_54
+  - first:
+      213: 859511565909070777
+    second: Medieval_HighSeas_Decals_1_55
+  - first:
+      213: 6056925371453068178
+    second: Medieval_HighSeas_Decals_1_56
+  - first:
+      213: 8702437831048591867
+    second: Medieval_HighSeas_Decals_1_57
+  - first:
+      213: -7635239320977265269
+    second: Medieval_HighSeas_Decals_1_58
+  - first:
+      213: 458639954677154468
+    second: Medieval_HighSeas_Decals_1_59
+  - first:
+      213: -3718574746485719993
+    second: Medieval_HighSeas_Decals_1_60
+  - first:
+      213: 3181556208420033426
+    second: Medieval_HighSeas_Decals_1_61
+  - first:
+      213: 4593026728088682883
+    second: Medieval_HighSeas_Decals_1_62
+  - first:
+      213: -1357469682462750539
+    second: Medieval_HighSeas_Decals_1_63
+  - first:
+      213: 6469113037087049738
+    second: Medieval_HighSeas_Decals_1_64
+  - first:
+      213: 1920171843729969830
+    second: Medieval_HighSeas_Decals_1_65
+  - first:
+      213: 5636509630252286454
+    second: Medieval_HighSeas_Decals_1_66
+  - first:
+      213: 9160346065860374240
+    second: Medieval_HighSeas_Decals_1_67
+  - first:
+      213: 6148697740049746051
+    second: Medieval_HighSeas_Decals_1_68
+  - first:
+      213: 8401058188203758869
+    second: Medieval_HighSeas_Decals_1_69
+  - first:
+      213: -8250322688232047301
+    second: Medieval_HighSeas_Decals_1_70
+  - first:
+      213: -8065458426770355650
+    second: Medieval_HighSeas_Decals_1_71
+  - first:
+      213: 636637012514829674
+    second: Medieval_HighSeas_Decals_1_72
+  - first:
+      213: -3651389280794654270
+    second: Medieval_HighSeas_Decals_1_73
+  - first:
+      213: 122265434904155618
+    second: Medieval_HighSeas_Decals_1_74
+  - first:
+      213: 976280381660521484
+    second: Medieval_HighSeas_Decals_1_75
+  - first:
+      213: 1636766115788920163
+    second: Medieval_HighSeas_Decals_1_76
+  - first:
+      213: 8277220446603276583
+    second: Medieval_HighSeas_Decals_1_77
+  - first:
+      213: 5276382013376215430
+    second: Medieval_HighSeas_Decals_1_78
+  - first:
+      213: -116235853457782360
+    second: Medieval_HighSeas_Decals_1_79
+  - first:
+      213: 7297222641639127286
+    second: Medieval_HighSeas_Decals_1_80
+  - first:
+      213: -6257127558664919532
+    second: Medieval_HighSeas_Decals_1_81
+  - first:
+      213: -2224525124630988064
+    second: Medieval_HighSeas_Decals_1_82
+  - first:
+      213: 19990801982369630
+    second: Medieval_HighSeas_Decals_1_83
+  - first:
+      213: 7215795153400898776
+    second: Medieval_HighSeas_Decals_1_84
+  - first:
+      213: 7708322894725712247
+    second: Medieval_HighSeas_Decals_1_85
+  - first:
+      213: 5906805168786939488
+    second: Medieval_HighSeas_Decals_1_86
+  - first:
+      213: 177097603894277527
+    second: Medieval_HighSeas_Decals_1_87
+  - first:
+      213: -2520113794109586842
+    second: Medieval_HighSeas_Decals_1_88
+  - first:
+      213: 4674476746173193103
+    second: Medieval_HighSeas_Decals_1_89
+  - first:
+      213: 7402575050113911422
+    second: Medieval_HighSeas_Decals_1_90
+  - first:
+      213: -3843838336688467557
+    second: Medieval_HighSeas_Decals_1_91
+  - first:
+      213: -4544441820661722331
+    second: Medieval_HighSeas_Decals_1_92
+  - first:
+      213: 553110909044957628
+    second: Medieval_HighSeas_Decals_1_93
+  - first:
+      213: -5598257840641630585
+    second: Medieval_HighSeas_Decals_1_94
+  - first:
+      213: -2999137394411204443
+    second: Medieval_HighSeas_Decals_1_95
+  - first:
+      213: -9061056968213086134
+    second: Medieval_HighSeas_Decals_1_96
+  - first:
+      213: 5076615007232251410
+    second: Medieval_HighSeas_Decals_1_97
+  - first:
+      213: -1708306453959776920
+    second: Medieval_HighSeas_Decals_1_98
+  - first:
+      213: 4217254524747669419
+    second: Medieval_HighSeas_Decals_1_99
+  - first:
+      213: -6823700214901693643
+    second: Medieval_HighSeas_Decals_1_100
+  - first:
+      213: -3491751861174447976
+    second: Medieval_HighSeas_Decals_1_101
+  - first:
+      213: 690854983442992734
+    second: Medieval_HighSeas_Decals_1_102
+  - first:
+      213: 3836759994776778168
+    second: Medieval_HighSeas_Decals_1_103
+  - first:
+      213: -6770762959518282433
+    second: Medieval_HighSeas_Decals_1_104
+  - first:
+      213: -1323740332691985781
+    second: Medieval_HighSeas_Decals_1_105
+  - first:
+      213: -1871301582260254256
+    second: Medieval_HighSeas_Decals_1_106
+  - first:
+      213: 4089895755457180365
+    second: Medieval_HighSeas_Decals_1_107
+  - first:
+      213: 3352544332837948726
+    second: Medieval_HighSeas_Decals_1_108
+  - first:
+      213: 5004942012110169514
+    second: Medieval_HighSeas_Decals_1_109
+  - first:
+      213: 3131899865850466068
+    second: Medieval_HighSeas_Decals_1_110
+  - first:
+      213: 5471996158837843026
+    second: Medieval_HighSeas_Decals_1_111
+  - first:
+      213: 5892011615351136958
+    second: Medieval_HighSeas_Decals_1_112
+  - first:
+      213: 7206864090159797839
+    second: Medieval_HighSeas_Decals_1_113
+  - first:
+      213: -3867346980767723163
+    second: Medieval_HighSeas_Decals_1_114
+  - first:
+      213: -7935994596671051315
+    second: Medieval_HighSeas_Decals_1_115
+  - first:
+      213: -5892014696463439859
+    second: Medieval_HighSeas_Decals_1_116
+  - first:
+      213: 8608583410468364779
+    second: Medieval_HighSeas_Decals_1_117
+  - first:
+      213: 3611405583712322163
+    second: Medieval_HighSeas_Decals_1_118
+  - first:
+      213: 727231678003621455
+    second: Medieval_HighSeas_Decals_1_119
+  - first:
+      213: 1363205550637855838
+    second: Medieval_HighSeas_Decals_1_120
+  - first:
+      213: 2941566992556294355
+    second: Medieval_HighSeas_Decals_1_121
+  - first:
+      213: -4533381845804665902
+    second: Medieval_HighSeas_Decals_1_122
+  - first:
+      213: 5254472887291812703
+    second: Medieval_HighSeas_Decals_1_123
+  - first:
+      213: -8407555783785373319
+    second: Medieval_HighSeas_Decals_1_124
+  - first:
+      213: -7209770616712231936
+    second: Medieval_HighSeas_Decals_1_125
+  - first:
+      213: -73639889407299115
+    second: Medieval_HighSeas_Decals_1_126
+  - first:
+      213: -1821530202432428446
+    second: Medieval_HighSeas_Decals_1_127
+  - first:
+      213: 3579991758467505201
+    second: Medieval_HighSeas_Decals_1_128
+  - first:
+      213: -7624100228201062056
+    second: Medieval_HighSeas_Decals_1_129
+  - first:
+      213: -7529274908154519697
+    second: Medieval_HighSeas_Decals_1_130
+  - first:
+      213: 88290669425065978
+    second: Medieval_HighSeas_Decals_1_131
+  - first:
+      213: -771425406418960844
+    second: Medieval_HighSeas_Decals_1_132
+  - first:
+      213: 7618801829806967576
+    second: Medieval_HighSeas_Decals_1_133
+  - first:
+      213: -2182552903991478092
+    second: Medieval_HighSeas_Decals_1_134
+  - first:
+      213: 9153955285397030560
+    second: Medieval_HighSeas_Decals_1_135
+  - first:
+      213: -9030545599742123514
+    second: Medieval_HighSeas_Decals_1_136
+  - first:
+      213: -8088498025866216505
+    second: Medieval_HighSeas_Decals_1_137
+  - first:
+      213: -8495171943469454713
+    second: Medieval_HighSeas_Decals_1_138
+  - first:
+      213: 9055268231212992045
+    second: Medieval_HighSeas_Decals_1_139
+  - first:
+      213: 3703635951248896305
+    second: Medieval_HighSeas_Decals_1_140
+  - first:
+      213: 5189043902025779867
+    second: Medieval_HighSeas_Decals_1_141
+  - first:
+      213: -1834228584267404806
+    second: Medieval_HighSeas_Decals_1_142
+  - first:
+      213: 2240891175179044176
+    second: Medieval_HighSeas_Decals_1_143
+  - first:
+      213: -1499015677172542618
+    second: Medieval_HighSeas_Decals_1_144
+  - first:
+      213: 5236322466985256426
+    second: Medieval_HighSeas_Decals_1_145
+  - first:
+      213: 8377754344440102332
+    second: Medieval_HighSeas_Decals_1_146
+  - first:
+      213: 1973973283582844152
+    second: Medieval_HighSeas_Decals_1_147
+  - first:
+      213: 2226376223259134896
+    second: Medieval_HighSeas_Decals_1_148
+  - first:
+      213: -579461840832377745
+    second: Medieval_HighSeas_Decals_1_149
+  - first:
+      213: -6547032445754719458
+    second: Medieval_HighSeas_Decals_1_150
+  - first:
+      213: -6971502228404060804
+    second: Medieval_HighSeas_Decals_1_151
+  - first:
+      213: 6041501596770550956
+    second: Medieval_HighSeas_Decals_1_152
+  - first:
+      213: 6380185703822078132
+    second: Medieval_HighSeas_Decals_1_153
+  - first:
+      213: -6428896365722005942
+    second: Medieval_HighSeas_Decals_1_154
+  - first:
+      213: 1680439497305514911
+    second: Medieval_HighSeas_Decals_1_155
+  - first:
+      213: -8914443010246549741
+    second: Medieval_HighSeas_Decals_1_156
+  - first:
+      213: -4727225869917263249
+    second: Medieval_HighSeas_Decals_1_157
+  - first:
+      213: 4542976675855707343
+    second: Medieval_HighSeas_Decals_1_158
+  - first:
+      213: 8491915052186683200
+    second: Medieval_HighSeas_Decals_1_159
+  - first:
+      213: 2842207538628934545
+    second: Medieval_HighSeas_Decals_1_160
+  - first:
+      213: 7883428407755210936
+    second: Medieval_HighSeas_Decals_1_161
+  - first:
+      213: 6666786858268858469
+    second: Medieval_HighSeas_Decals_1_162
+  - first:
+      213: 5809323798679025594
+    second: Medieval_HighSeas_Decals_1_163
+  - first:
+      213: -1109894525602062315
+    second: Medieval_HighSeas_Decals_1_164
+  - first:
+      213: -7047650675781585011
+    second: Medieval_HighSeas_Decals_1_165
+  - first:
+      213: -7318656509855003821
+    second: Medieval_HighSeas_Decals_1_166
+  - first:
+      213: 4531484840225814370
+    second: Medieval_HighSeas_Decals_1_167
+  - first:
+      213: -2520520524351904626
+    second: Medieval_HighSeas_Decals_1_168
+  - first:
+      213: -3294493743404586888
+    second: Medieval_HighSeas_Decals_1_169
+  - first:
+      213: 8911773750420665166
+    second: Medieval_HighSeas_Decals_1_170
+  - first:
+      213: -160138071316322714
+    second: Medieval_HighSeas_Decals_1_171
+  - first:
+      213: -5613969249843970628
+    second: Medieval_HighSeas_Decals_1_172
+  - first:
+      213: -5624979217885848855
+    second: Medieval_HighSeas_Decals_1_173
+  - first:
+      213: -4373440887622263297
+    second: Medieval_HighSeas_Decals_1_174
+  - first:
+      213: -4869841174621814104
+    second: Medieval_HighSeas_Decals_1_175
+  - first:
+      213: 2689261215219286554
+    second: Medieval_HighSeas_Decals_1_176
+  - first:
+      213: 8882660992326021188
+    second: Medieval_HighSeas_Decals_1_177
+  - first:
+      213: -2347199632950029954
+    second: Medieval_HighSeas_Decals_1_178
+  - first:
+      213: -3837513147897818561
+    second: Medieval_HighSeas_Decals_1_179
+  - first:
+      213: -4543664759759529234
+    second: Medieval_HighSeas_Decals_1_180
+  - first:
+      213: -4636656631958792518
+    second: Medieval_HighSeas_Decals_1_181
+  - first:
+      213: 7306715426488315987
+    second: Medieval_HighSeas_Decals_1_182
+  - first:
+      213: 5457066083866128120
+    second: Medieval_HighSeas_Decals_1_183
+  - first:
+      213: -5291956090891969320
+    second: Medieval_HighSeas_Decals_1_184
+  - first:
+      213: 7683701305618617891
+    second: Medieval_HighSeas_Decals_1_185
+  - first:
+      213: 4102765107550224642
+    second: Medieval_HighSeas_Decals_1_186
+  - first:
+      213: 1329007546262184790
+    second: Medieval_HighSeas_Decals_1_187
+  - first:
+      213: 5700792901885217270
+    second: Medieval_HighSeas_Decals_1_188
+  - first:
+      213: 2768458443335985015
+    second: Medieval_HighSeas_Decals_1_189
+  - first:
+      213: 8815759054902200305
+    second: Medieval_HighSeas_Decals_1_190
+  - first:
+      213: 7185275516665894883
+    second: Medieval_HighSeas_Decals_1_191
+  - first:
+      213: 5830350627183795294
+    second: Medieval_HighSeas_Decals_1_192
+  - first:
+      213: -1585154229780327672
+    second: Medieval_HighSeas_Decals_1_193
+  - first:
+      213: 7507565146419057422
+    second: Medieval_HighSeas_Decals_1_194
+  - first:
+      213: 5014107842858547160
+    second: Medieval_HighSeas_Decals_1_195
+  - first:
+      213: 7488424280869663956
+    second: Medieval_HighSeas_Decals_1_196
+  - first:
+      213: 4566894396845776531
+    second: Medieval_HighSeas_Decals_1_197
+  - first:
+      213: 3373835620846204473
+    second: Medieval_HighSeas_Decals_1_198
+  - first:
+      213: -434905310456959713
+    second: Medieval_HighSeas_Decals_1_199
+  - first:
+      213: 1051235076371834513
+    second: Medieval_HighSeas_Decals_1_200
+  - first:
+      213: -4656814271450629739
+    second: Medieval_HighSeas_Decals_1_201
+  - first:
+      213: -8177522192359564403
+    second: Medieval_HighSeas_Decals_1_202
+  - first:
+      213: 1889706212820167091
+    second: Medieval_HighSeas_Decals_1_203
+  - first:
+      213: 5203985079292446942
+    second: Medieval_HighSeas_Decals_1_204
+  - first:
+      213: 7143878083525318872
+    second: Medieval_HighSeas_Decals_1_205
+  - first:
+      213: -351537068708959700
+    second: Medieval_HighSeas_Decals_1_206
+  - first:
+      213: -3985525469698522315
+    second: Medieval_HighSeas_Decals_1_207
+  - first:
+      213: -4241670325041523299
+    second: Medieval_HighSeas_Decals_1_208
+  - first:
+      213: 7373794356477856424
+    second: Medieval_HighSeas_Decals_1_209
+  - first:
+      213: 5521951159369745053
+    second: Medieval_HighSeas_Decals_1_210
+  - first:
+      213: -9213043915102697273
+    second: Medieval_HighSeas_Decals_1_211
+  - first:
+      213: -5572769600199786954
+    second: Medieval_HighSeas_Decals_1_212
+  - first:
+      213: 5723173562007029824
+    second: Medieval_HighSeas_Decals_1_213
+  - first:
+      213: -3562734341452884931
+    second: Medieval_HighSeas_Decals_1_214
+  - first:
+      213: 5688590491914257049
+    second: Medieval_HighSeas_Decals_1_215
+  - first:
+      213: 5285119958922091152
+    second: Medieval_HighSeas_Decals_1_216
+  - first:
+      213: 3197231873436961846
+    second: Medieval_HighSeas_Decals_1_217
+  - first:
+      213: 671413562297093295
+    second: Medieval_HighSeas_Decals_1_218
+  - first:
+      213: 4863361057795855638
+    second: Medieval_HighSeas_Decals_1_219
+  - first:
+      213: -8512922602457601507
+    second: Medieval_HighSeas_Decals_1_220
+  - first:
+      213: 5634484518944899546
+    second: Medieval_HighSeas_Decals_1_221
+  - first:
+      213: -4847604150909612012
+    second: Medieval_HighSeas_Decals_1_222
+  - first:
+      213: -3436358101096605285
+    second: Medieval_HighSeas_Decals_1_223
+  - first:
+      213: 7214895923676037249
+    second: Medieval_HighSeas_Decals_1_224
+  - first:
+      213: 4371734535099082002
+    second: Medieval_HighSeas_Decals_1_225
+  - first:
+      213: -795457308194536198
+    second: Medieval_HighSeas_Decals_1_226
+  - first:
+      213: -8227505893631799795
+    second: Medieval_HighSeas_Decals_1_227
+  - first:
+      213: 3529674187531005535
+    second: Medieval_HighSeas_Decals_1_228
+  - first:
+      213: -3856115614681493640
+    second: Medieval_HighSeas_Decals_1_229
+  - first:
+      213: -2694577332861171204
+    second: Medieval_HighSeas_Decals_1_230
+  - first:
+      213: -209072484479009673
+    second: Medieval_HighSeas_Decals_1_231
+  - first:
+      213: 8423302527680404766
+    second: Medieval_HighSeas_Decals_1_232
+  - first:
+      213: -1855811072300087449
+    second: Medieval_HighSeas_Decals_1_233
+  - first:
+      213: 5484442760947909596
+    second: Medieval_HighSeas_Decals_1_234
+  - first:
+      213: -5486116123375621715
+    second: Medieval_HighSeas_Decals_1_235
+  - first:
+      213: -4787356711873205058
+    second: Medieval_HighSeas_Decals_1_236
+  - first:
+      213: -2733755781249712068
+    second: Medieval_HighSeas_Decals_1_237
+  - first:
+      213: 6643944394188514633
+    second: Medieval_HighSeas_Decals_1_238
+  - first:
+      213: -898557207471832194
+    second: Medieval_HighSeas_Decals_1_239
+  - first:
+      213: 6399423183088231332
+    second: Medieval_HighSeas_Decals_1_240
+  - first:
+      213: -1522484446011549633
+    second: Medieval_HighSeas_Decals_1_241
+  - first:
+      213: 6012304559444695433
+    second: Medieval_HighSeas_Decals_1_242
+  - first:
+      213: 6812144527122399470
+    second: Medieval_HighSeas_Decals_1_243
+  - first:
+      213: -2626539612058146353
+    second: Medieval_HighSeas_Decals_1_244
+  - first:
+      213: -1884218716719009938
+    second: Medieval_HighSeas_Decals_1_245
+  - first:
+      213: 3834510585082037390
+    second: Medieval_HighSeas_Decals_1_246
+  - first:
+      213: -1410620924746440544
+    second: Medieval_HighSeas_Decals_1_247
+  - first:
+      213: -382473886884818562
+    second: Medieval_HighSeas_Decals_1_248
+  - first:
+      213: 1524576845919441032
+    second: Medieval_HighSeas_Decals_1_249
+  - first:
+      213: -1562273649518153885
+    second: Medieval_HighSeas_Decals_1_250
+  - first:
+      213: 121143726950406621
+    second: Medieval_HighSeas_Decals_1_251
+  - first:
+      213: 1839066551431326330
+    second: Medieval_HighSeas_Decals_1_252
+  - first:
+      213: 6626024041695050313
+    second: Medieval_HighSeas_Decals_1_253
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d282e3a530f4ef30800000000000000
+      internalID: 4604068832252953302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a51b2e4b6f6510800000000000000
+      internalID: 1544571180685828350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4f658ad1099b60800000000000000
+      internalID: 7753230271548182429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38d0db0637f35f0800000000000000
+      internalID: -774773751558601776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee0db376ab45a10800000000000000
+      internalID: 1897346295577767482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026441db40d2dba0800000000000000
+      internalID: -6065556724062592501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1197d13b75a5ee0800000000000000
+      internalID: -1271607517973507649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678827c734c795c30800000000000000
+      internalID: 4348643544495458422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffd4d98210b9d40800000000000000
+      internalID: 5592064636260057075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba8697df5eb3ff40800000000000000
+      internalID: 5761157667185134265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1ae185c81ce920800000000000000
+      internalID: 3020816686625987495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef186465db27780800000000000000
+      internalID: -8686672552996503886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535990016315bea0800000000000000
+      internalID: -5857754432982658218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb3297190d51850800000000000000
+      internalID: 6347208573069803257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12f103178fa5ef0800000000000000
+      internalID: -118509275149557315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef7b7fd3e5817b00800000000000000
+      internalID: 824587420538994663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da728d7827ef6f860800000000000000
+      internalID: 7563512392074143661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26035fc6d9e6ac0800000000000000
+      internalID: -3859974739314318619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6914ddf6dd36b750800000000000000
+      internalID: 6320307120651901295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c832888d1fa126f70800000000000000
+      internalID: 9178928616556733324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fa30ec34400b860800000000000000
+      internalID: 7543534065111248667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2562d80c4ef0c0800000000000000
+      internalID: -4540107773569586562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f9ada8cddf2130800000000000000
+      internalID: 3544295285740663312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900e5c493906cc1d0800000000000000
+      internalID: -3329179837561184247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752821f21c38e46a0800000000000000
+      internalID: -6463083549488414121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f34a2bf0db2d27e0800000000000000
+      internalID: -1788725300429175820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d2d8cbbcaa42b0800000000000000
+      internalID: -5599473264153669170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24010d31fd2d998a0800000000000000
+      internalID: -6297770748348985278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c3f535cb6182c20800000000000000
+      internalID: 3181818134845668412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a425d6cca5e4b0800000000000000
+      internalID: -5411729407236331180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01d742670796bdd0800000000000000
+      internalID: -2470621287596699377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22cabc7bed52c060800000000000000
+      internalID: 6972238439114261036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de737647449d63400800000000000000
+      internalID: 303668912928012269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8556c239e024e50800000000000000
+      internalID: 6792007213295949995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a444047047b4c5e0800000000000000
+      internalID: -1890184456136538972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e62fbeb932dc390800000000000000
+      internalID: -7796536227323023755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebfec9b3b0406ad0800000000000000
+      internalID: -2711095835016365080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736684d5a002c730800000000000000
+      internalID: 4017774529803084660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16748b8e3e65396d0800000000000000
+      internalID: -2984946591154550943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc540dc81bcd94f60800000000000000
+      internalID: 8019183266639660493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647047b7a10fdd30800000000000000
+      internalID: 4458283975965701222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ad78478b006df0800000000000000
+      internalID: -189138508684875819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4e1c6d1028a6820800000000000000
+      internalID: 2912283053458056352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98884fa83376460800000000000000
+      internalID: 7234807998295083495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf3a10d3118fa50800000000000000
+      internalID: 6555008211355957981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a161655a2daf8cd0800000000000000
+      internalID: -2553632066363104861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1ce3041a52d830800000000000000
+      internalID: 4094434053244854252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6698c1f7624a3f90800000000000000
+      internalID: -6973188058824272275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f024d50cb2dde0800000000000000
+      internalID: -1309777808391604194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711b252c61241c50800000000000000
+      internalID: 6634964899387347317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca74f0ef82e4200800000000000000
+      internalID: 166115307902446670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75da1c238df1370800000000000000
+      internalID: 8295586751149070293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683ce4b8427751a20800000000000000
+      internalID: 3032460922943619974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ea25aef9075c40800000000000000
+      internalID: 5500876459153745966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00c6a0cee9338f70800000000000000
+      internalID: 9188251362363097099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3995e17399deb00800000000000000
+      internalID: 859511565909070777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d28cc8858e0450800000000000000
+      internalID: 6056925371453068178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9729f891545c870800000000000000
+      internalID: 8702437831048591867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2e027a4e2a0690800000000000000
+      internalID: -7635239320977265269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2455adb9a6d5600800000000000000
+      internalID: 458639954677154468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cfafc48f7f46cc0800000000000000
+      internalID: -3718574746485719993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29390d3d388272c20800000000000000
+      internalID: 3181556208420033426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381c99b6975bdbf30800000000000000
+      internalID: 4593026728088682883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80277148c492de0800000000000000
+      internalID: -1357469682462750539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a080c6b4808e6c950800000000000000
+      internalID: 6469113037087049738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25b3d4e12d5aa10800000000000000
+      internalID: 1920171843729969830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1814c25a7e83e40800000000000000
+      internalID: 5636509630252286454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee214b9636102f70800000000000000
+      internalID: 9160346065860374240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38889e27400945550800000000000000
+      internalID: 6148697740049746051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515954559ed869470800000000000000
+      internalID: 8401058188203758869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d35952a37f08d80800000000000000
+      internalID: -8250322688232047301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0ca12b4cb11090800000000000000
+      internalID: -8065458426770355650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ffc56df9c5d800800000000000000
+      internalID: 636637012514829674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c0958bc8a35dc0800000000000000
+      internalID: -3651389280794654270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e555c7e3cf52b100800000000000000
+      internalID: 122265434904155618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ee06a5d17c8d00800000000000000
+      internalID: 976280381660521484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659eff3c16f6b610800000000000000
+      internalID: 1636766115788920163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721736f34289ed270800000000000000
+      internalID: 8277220446603276583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689bc865c79793940800000000000000
+      internalID: 5276382013376215430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90c7c6b1c036ef0800000000000000
+      internalID: -116235853457782360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f876d98451f44560800000000000000
+      internalID: 7297222641639127286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416687713a73a29a0800000000000000
+      internalID: -6257127558664919532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea30786f26e021e0800000000000000
+      internalID: -2224525124630988064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2fea4785074000800000000000000
+      internalID: 19990801982369630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4227a0677a32460800000000000000
+      internalID: 7215795153400898776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779032215d679fa60800000000000000
+      internalID: 7708322894725712247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e9cf2610039f150800000000000000
+      internalID: 5906805168786939488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f0ba155d257200800000000000000
+      internalID: 177097603894277527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662498c3bd1c60dd0800000000000000
+      internalID: -2520113794109586842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1a7e85d31fd040800000000000000
+      internalID: 4674476746173193103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a853d99ca3bb660800000000000000
+      internalID: 7402575050113911422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d7a7f561f7aac0800000000000000
+      internalID: -3843838336688467557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235709dd36eee0c0800000000000000
+      internalID: -4544441820661722331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a407f07b0da700800000000000000
+      internalID: 553110909044957628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e928f972efe42b0800000000000000
+      internalID: -5598257840641630585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_95
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0978d0e6ce066d0800000000000000
+      internalID: -2999137394411204443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c418e1b8a04280800000000000000
+      internalID: -9061056968213086134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216de77b372c37640800000000000000
+      internalID: 5076615007232251410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656834c450ea48e0800000000000000
+      internalID: -1708306453959776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5ef275a2b68a30800000000000000
+      internalID: 4217254524747669419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533270ddec85d41a0800000000000000
+      internalID: -6823700214901693643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89053eeae2eca8fc0800000000000000
+      internalID: -3491751861174447976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e8d6772f8669900800000000000000
+      internalID: 690854983442992734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5791123e8ee3530800000000000000
+      internalID: 3836759994776778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4a8b16fa6902a0800000000000000
+      internalID: -6770762959518282433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a690f4e2121ade0800000000000000
+      internalID: -1323740332691985781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d940c1202dc706e0800000000000000
+      internalID: -1871301582260254256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc23768358a32c830800000000000000
+      internalID: 4089895755457180365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0e84ee41a68e20800000000000000
+      internalID: 3352544332837948726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa561412e30257540800000000000000
+      internalID: 5004942012110169514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4c10a55eb67b20800000000000000
+      internalID: 3131899865850466068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e4dbb38f60fb40800000000000000
+      internalID: 5471996158837843026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ea71d851a4c150800000000000000
+      internalID: 5892011615351136958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465e76d4bce30460800000000000000
+      internalID: 7206864090159797839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561192c396c645ac0800000000000000
+      internalID: -3867346980767723163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a00606feadd190800000000000000
+      internalID: -7935994596671051315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086aedc9db5b3ea0800000000000000
+      internalID: -5892014696463439859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a9486005d77770800000000000000
+      internalID: 8608583410468364779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_118
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372090d8e3a4e1230800000000000000
+      internalID: 3611405583712322163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_119
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e21dcab55a71a00800000000000000
+      internalID: 727231678003621455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543c99c9341be210800000000000000
+      internalID: 1363205550637855838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0055a389b82d820800000000000000
+      internalID: 2941566992556294355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3bb99ea313611c0800000000000000
+      internalID: -4533381845804665902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b13f86043abe840800000000000000
+      internalID: 5254472887291812703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971213e4f8c525b80800000000000000
+      internalID: -8407555783785373319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00481d6b2dfb1fb90800000000000000
+      internalID: -7209770616712231936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1349629e06afef0800000000000000
+      internalID: -73639889407299115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ae588eef98b6e0800000000000000
+      internalID: -1821530202432428446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1846698faea130800000000000000
+      internalID: 3579991758467505201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e9169c31c13690800000000000000
+      internalID: -7624100228201062056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f1033ec54a28790800000000000000
+      internalID: -7529274908154519697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affff0465eba93100800000000000000
+      internalID: 88290669425065978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ebfa71ea85b45f0800000000000000
+      internalID: -771425406418960844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8db7e5eb6bb960800000000000000
+      internalID: 7618801829806967576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8371e82b306b1e0800000000000000
+      internalID: -2182552903991478092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a646e315d1690f70800000000000000
+      internalID: 9153955285397030560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60267677f9e0da280800000000000000
+      internalID: -9030545599742123514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbbc176e1efbf80800000000000000
+      internalID: -8088498025866216505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a63a370261b1a80800000000000000
+      internalID: -8495171943469454713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26845bba76caad70800000000000000
+      internalID: 9055268231212992045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317e836645f56330800000000000000
+      internalID: 3703635951248896305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4728afef230840800000000000000
+      internalID: 5189043902025779867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9afdd12d28b86e0800000000000000
+      internalID: -1834228584267404806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Decals_1_143
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cadca6ae391f10800000000000000
+      internalID: 2240891175179044176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

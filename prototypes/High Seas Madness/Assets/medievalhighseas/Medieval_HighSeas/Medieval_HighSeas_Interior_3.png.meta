@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: e40cccc185b55824cb4c86a27d6dd339
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7040164637483161456
+    second: Medieval_HighSeas_Interior_3_0
+  - first:
+      213: -592453713278248795
+    second: Medieval_HighSeas_Interior_3_1
+  - first:
+      213: -2601506818935260092
+    second: Medieval_HighSeas_Interior_3_2
+  - first:
+      213: -4906280623382900575
+    second: Medieval_HighSeas_Interior_3_3
+  - first:
+      213: 8572755186406110063
+    second: Medieval_HighSeas_Interior_3_4
+  - first:
+      213: 4288694515868129244
+    second: Medieval_HighSeas_Interior_3_5
+  - first:
+      213: 6600367899507644916
+    second: Medieval_HighSeas_Interior_3_6
+  - first:
+      213: 3580250248757420616
+    second: Medieval_HighSeas_Interior_3_7
+  - first:
+      213: -22749312335080897
+    second: Medieval_HighSeas_Interior_3_8
+  - first:
+      213: -2976046869982094784
+    second: Medieval_HighSeas_Interior_3_9
+  - first:
+      213: -154319855249098107
+    second: Medieval_HighSeas_Interior_3_10
+  - first:
+      213: 1446200760631146681
+    second: Medieval_HighSeas_Interior_3_11
+  - first:
+      213: 3977799385455028055
+    second: Medieval_HighSeas_Interior_3_12
+  - first:
+      213: -7281156634555204379
+    second: Medieval_HighSeas_Interior_3_13
+  - first:
+      213: -3014641432746005655
+    second: Medieval_HighSeas_Interior_3_14
+  - first:
+      213: -1783160042820120098
+    second: Medieval_HighSeas_Interior_3_15
+  - first:
+      213: -2727575684325601898
+    second: Medieval_HighSeas_Interior_3_16
+  - first:
+      213: -2511545539551047390
+    second: Medieval_HighSeas_Interior_3_17
+  - first:
+      213: -9120593952436954264
+    second: Medieval_HighSeas_Interior_3_18
+  - first:
+      213: 5092727902780114640
+    second: Medieval_HighSeas_Interior_3_19
+  - first:
+      213: -7005790789967819427
+    second: Medieval_HighSeas_Interior_3_20
+  - first:
+      213: -1960585381084763138
+    second: Medieval_HighSeas_Interior_3_21
+  - first:
+      213: -7828368211253018175
+    second: Medieval_HighSeas_Interior_3_22
+  - first:
+      213: -6598526478899549706
+    second: Medieval_HighSeas_Interior_3_23
+  - first:
+      213: 4966999338584959597
+    second: Medieval_HighSeas_Interior_3_24
+  - first:
+      213: -6164179380177116498
+    second: Medieval_HighSeas_Interior_3_25
+  - first:
+      213: 7568495028697216149
+    second: Medieval_HighSeas_Interior_3_27
+  - first:
+      213: -1532338011241100362
+    second: Medieval_HighSeas_Interior_3_28
+  - first:
+      213: -1429712184321686892
+    second: Medieval_HighSeas_Interior_3_30
+  - first:
+      213: -6368443942634829627
+    second: Medieval_HighSeas_Interior_3_31
+  - first:
+      213: 19758650861082913
+    second: Medieval_HighSeas_Interior_3_32
+  - first:
+      213: 3714400531928152315
+    second: Medieval_HighSeas_Interior_3_33
+  - first:
+      213: 3440777554145849397
+    second: Medieval_HighSeas_Interior_3_34
+  - first:
+      213: -3120689739982202014
+    second: Medieval_HighSeas_Interior_3_36
+  - first:
+      213: -8590122165436251371
+    second: Medieval_HighSeas_Interior_3_37
+  - first:
+      213: -849735544053321809
+    second: Medieval_HighSeas_Interior_3_38
+  - first:
+      213: 7505102713037205919
+    second: Medieval_HighSeas_Interior_3_39
+  - first:
+      213: 340112724144093818
+    second: Medieval_HighSeas_Interior_3_40
+  - first:
+      213: -4261708816820354057
+    second: Medieval_HighSeas_Interior_3_41
+  - first:
+      213: -4466058629375282049
+    second: Medieval_HighSeas_Interior_3_42
+  - first:
+      213: -5825977321468930073
+    second: Medieval_HighSeas_Interior_3_43
+  - first:
+      213: 4481088622636590362
+    second: Medieval_HighSeas_Interior_3_44
+  - first:
+      213: -7213216102456003726
+    second: Medieval_HighSeas_Interior_3_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 676
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ac86009f4c4e90800000000000000
+      internalID: -7040164637483161456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 676
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8503a9c7e27c7f0800000000000000
+      internalID: -592453713278248795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 679
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7b90e45795ebd0800000000000000
+      internalID: -2601506818935260092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 674
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a051e284c369ebb0800000000000000
+      internalID: -4906280623382900575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 582
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63bf10fb6b88f670800000000000000
+      internalID: 8572755186406110063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 582
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75c7090f0848b30800000000000000
+      internalID: 4288694515868129244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 580
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f95b0562a7399b50800000000000000
+      internalID: 6600367899507644916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 626
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a03cd1aa9fa130800000000000000
+      internalID: 3580250248757420616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 576
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f321267fe9d2faff0800000000000000
+      internalID: -22749312335080897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 518
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04addc7b325f2b6d0800000000000000
+      internalID: -2976046869982094784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 454
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7616c8eebbddf0800000000000000
+      internalID: -154319855249098107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 533
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8b153fdefe11410800000000000000
+      internalID: 1446200760631146681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 481
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75760dd377bf33730800000000000000
+      internalID: 3977799385455028055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 483
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecbb5b3e9224fa90800000000000000
+      internalID: -7281156634555204379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96beff3d697d926d0800000000000000
+      internalID: -3014641432746005655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1590e7361f047e0800000000000000
+      internalID: -1783160042820120098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 301
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d87cdcd54b52ad0800000000000000
+      internalID: -2727575684325601898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 300
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d7d573a2352dd0800000000000000
+      internalID: -2511545539551047390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 299
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b5b6c8f142d6180800000000000000
+      internalID: -9120593952436954264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 202
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cdee8b010da640800000000000000
+      internalID: 5092727902780114640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 247
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc341156e66ce90800000000000000
+      internalID: -7005790789967819427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 255
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6e98cbf99ac4e0800000000000000
+      internalID: -1960585381084763138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 201
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1cd4d969c0c5390800000000000000
+      internalID: -7828368211253018175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 206
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9ee20c0235d64a0800000000000000
+      internalID: -6598526478899549706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 207
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae4f705935ee440800000000000000
+      internalID: 4966999338584959597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 202
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea261c0538f647aa0800000000000000
+      internalID: -6164179380177116498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 159
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bec50122b80960800000000000000
+      internalID: 7568495028697216149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb452c82ba0cbae0800000000000000
+      internalID: -1532338011241100362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4924572e754a82ce0800000000000000
+      internalID: -1429712184321686892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84343c9fdbe97a0800000000000000
+      internalID: -6368443942634829627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d0d56362364000800000000000000
+      internalID: 19758650861082913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87913aa933c8330800000000000000
+      internalID: 3714400531928152315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 115
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530300a94f810cf20800000000000000
+      internalID: 3440777554145849397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 109
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b9722373511b4d0800000000000000
+      internalID: -3120689739982202014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 15
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51386f72761c9c880800000000000000
+      internalID: -8590122165436251371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 61
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafada756022534f0800000000000000
+      internalID: -849735544053321809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91376d572b772860800000000000000
+      internalID: 7505102713037205919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 66
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af23a78b258b400800000000000000
+      internalID: 340112724144093818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c54d196e5bd4c0800000000000000
+      internalID: -4261708816820354057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b40ab65f5502c0800000000000000
+      internalID: -4466058629375282049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7dc545e78f52fa0800000000000000
+      internalID: -5825977321468930073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 14
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156c474c56003e30800000000000000
+      internalID: 4481088622636590362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_Interior_3_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 16
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737bfc0c2285eb90800000000000000
+      internalID: -7213216102456003726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

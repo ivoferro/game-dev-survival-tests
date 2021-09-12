@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 18ced2b8ddb087244be806c3863f705f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6575874588492819369
+    second: Medieval_HighSeas_LizardSmall_idle_diag_0
+  - first:
+      213: -3914157025447308304
+    second: Medieval_HighSeas_LizardSmall_idle_diag_1
+  - first:
+      213: 6227664682329628831
+    second: Medieval_HighSeas_LizardSmall_idle_diag_2
+  - first:
+      213: 5002283954500958083
+    second: Medieval_HighSeas_LizardSmall_idle_diag_3
+  - first:
+      213: 3422905164833572080
+    second: Medieval_HighSeas_LizardSmall_idle_diag_4
+  - first:
+      213: 3822981884720468184
+    second: Medieval_HighSeas_LizardSmall_idle_diag_5
+  - first:
+      213: -7521046700702783937
+    second: Medieval_HighSeas_LizardSmall_idle_diag_6
+  - first:
+      213: 2326948966600572628
+    second: Medieval_HighSeas_LizardSmall_idle_diag_7
+  - first:
+      213: -4516408993724743095
+    second: Medieval_HighSeas_LizardSmall_idle_diag_8
+  - first:
+      213: -638579379957153453
+    second: Medieval_HighSeas_LizardSmall_idle_diag_9
+  - first:
+      213: -6541117381410513164
+    second: Medieval_HighSeas_LizardSmall_idle_diag_10
+  - first:
+      213: 8219131591082261857
+    second: Medieval_HighSeas_LizardSmall_idle_diag_11
+  - first:
+      213: 2099331463509401429
+    second: Medieval_HighSeas_LizardSmall_idle_diag_12
+  - first:
+      213: -3877309075105006416
+    second: Medieval_HighSeas_LizardSmall_idle_diag_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 394
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541e59f6eccdb4a0800000000000000
+      internalID: -6575874588492819369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 393
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31d176cee1ea9c0800000000000000
+      internalID: -3914157025447308304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 394
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e082780c1d6650800000000000000
+      internalID: 6227664682329628831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 256
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f441c1bc1a908f20800000000000000
+      internalID: 3422905164833572080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 257
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d05485e4c5fd0530800000000000000
+      internalID: 3822981884720468184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 259
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36ac79bfdfdf9790800000000000000
+      internalID: -7521046700702783937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de70b4a1cbfa4020800000000000000
+      internalID: 2326948966600572628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 139
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94248acf2fd7251c0800000000000000
+      internalID: -4516408993724743095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 139
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351c3c0ff6f4327f0800000000000000
+      internalID: -638579379957153453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe94eed5684935a0800000000000000
+      internalID: -6541117381410513164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d36a0a2a8301270800000000000000
+      internalID: 8219131591082261857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_HighSeas_LizardSmall_idle_diag_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcb7f560f7013ac0800000000000000
+      internalID: -3877309075105006416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
